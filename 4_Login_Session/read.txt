@@ -1,0 +1,8 @@
+1. Login php
+	1_Lấy thông tin trên form 
+	2_Lưu thông tin vào Session
+
+2. Các trang khác, tùy vào ứng dụng muốn hiển thị thông tin tài khoản thì cần thì isset để kiếm tra 
+xem session đã lưu chưa
+
+
